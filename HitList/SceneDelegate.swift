@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  HitList
 //
-//  Created by Saravanan Pari on 11/5/21.
+//  Created by Kirthika Seralathan on 11/5/21.
 //
 
 import UIKit
